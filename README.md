@@ -13,19 +13,19 @@ The program was written in Java using [NetBeans 8.1](https://netbeans.org/commun
 [MySql](https://www.mysql.com/), using MySql Bench to debug/test the functionality. This was stored locally
 
 
-# Main Menu #
+## Main Menu ##
 ![alt text](https://github.coventry.ac.uk/navickar/260CT/blob/master/main.png)
 
-# Add Employee Window #
+## Add Employee Window ##
 ![alt text](https://github.coventry.ac.uk/navickar/260CT/blob/master/addemp.png)
 
-# Edit Employee Window #
+## Edit Employee Window ##
 ![alt text](https://github.coventry.ac.uk/navickar/260CT/blob/master/editemp.png)
 
-# Show Employees Window # 
+## Show Employees Window ##
 ![alt text](https://github.coventry.ac.uk/navickar/260CT/blob/master/showemp.png)
 
-# Delete Employee Window #
+## Delete Employee Window ##
 ![alt text](https://github.coventry.ac.uk/navickar/260CT/blob/master/delemp.png)
 
 
