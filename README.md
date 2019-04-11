@@ -1,5 +1,5 @@
 ```diff
-- # MAKE SURE TO SUBMIT ON TIME :) :) :) # 
+-  MAKE SURE TO SUBMIT ON TIME :) :) :)  
 ```
 # 260CT Software Engineering Module Coursework
 ## Task: ##
