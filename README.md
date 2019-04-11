@@ -1,4 +1,6 @@
-# MAKE SURE TO SUBMIT ON TIME :) :) :) #
+```diff
+- # MAKE SURE TO SUBMIT ON TIME :) :) :) # 
+```
 # 260CT Software Engineering Module Coursework
 ## Task: ##
 ### Create a Staff management Graphical User Interface with a link to a database for full functionality using at least one GoF and one GRASP methodologies. Also, implement Four Layered Architecture.
