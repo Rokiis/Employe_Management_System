@@ -23,7 +23,7 @@ public class Controller {
     public static Connection getConnection() throws Exception{
         try{
             String driver = "com.mysql.cj.jdbc.Driver";
-            String url = "jdbc:mysql://localhost:3306/dbjava";
+            String url = "jdbc:mysql://localhost:3306/dbjava?serverTimezone=Etc/GMT-1";
             String username = "root";
             String password = "H0ras123!";
             Class.forName(driver);
